@@ -36,43 +36,35 @@ Welcome to my 100 Days of Machine Learning challenge! This repository chronicles
 
 ---
 
-## 🎓 Learning Path
+## 🎓 What I'm Learning
 
-### Week 1-2: Foundations
-- [ ] Python for Machine Learning
-- [ ] NumPy & Pandas fundamentals
-- [ ] Data visualization (Matplotlib, Seaborn)
-- [ ] Statistics & Probability basics
+This challenge focuses on mastering the fundamental tools for Machine Learning:
 
-### Week 3-4: Core ML Concepts
-- [ ] Linear Regression
-- [ ] Logistic Regression
-- [ ] Decision Trees
-- [ ] Model evaluation metrics
+### 📌 Python for Machine Learning
+- Variables, data types, and operators
+- Control flow and loops
+- Functions and modules
+- File handling
+- Object-oriented programming basics
 
-### Week 5-6: Advanced Algorithms
-- [ ] Random Forests
-- [ ] Support Vector Machines
-- [ ] K-Means Clustering
-- [ ] Principal Component Analysis
+### 📌 NumPy
+- Array creation and manipulation
+- Mathematical operations
+- Broadcasting and vectorization
+- Indexing and slicing
 
-### Week 7-8: Deep Learning Basics
-- [ ] Neural Networks fundamentals
-- [ ] TensorFlow/PyTorch introduction
-- [ ] Convolutional Neural Networks (CNNs)
-- [ ] Image classification projects
+### 📌 Pandas
+- DataFrames and Series
+- Data cleaning and preprocessing
+- Handling missing values
+- Data aggregation and grouping
+- Reading/writing files (CSV, Excel)
 
-### Week 9-10: Specialized Topics
-- [ ] Natural Language Processing
-- [ ] Time Series Analysis
-- [ ] Recommendation Systems
-- [ ] Transfer Learning
-
-### Week 11-14: Real-World Projects
-- [ ] End-to-end ML pipeline
-- [ ] Model deployment
-- [ ] MLOps basics
-- [ ] Capstone project
+### 📌 Matplotlib
+- Line plots and scatter plots
+- Bar charts and histograms
+- Data visualization best practices
+- Customizing plots and figures
 
 ---
 
@@ -83,9 +75,7 @@ Welcome to my 100 Days of Machine Learning challenge! This repository chronicles
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
@@ -97,28 +87,31 @@ Welcome to my 100 Days of Machine Learning challenge! This repository chronicles
 ```
 100-days-of-ml/
 │
-├── 📁 Week-01-02-Foundations/
+├── 📁 Python-for-ML/
 │   ├── Day-01-Python-Basics/
-│   ├── Day-02-NumPy-Introduction/
+│   ├── Day-02-Functions-and-Modules/
+│   ├── Day-03-OOP-Basics/
 │   └── ...
 │
-├── 📁 Week-03-04-Core-ML/
-│   ├── Day-15-Linear-Regression/
-│   ├── Day-16-Logistic-Regression/
+├── 📁 NumPy/
+│   ├── Day-XX-Arrays-and-Operations/
+│   ├── Day-XX-Broadcasting/
 │   └── ...
 │
-├── 📁 Week-05-06-Advanced-Algorithms/
+├── 📁 Pandas/
+│   ├── Day-XX-DataFrames-Basics/
+│   ├── Day-XX-Data-Cleaning/
+│   └── ...
+│
+├── 📁 Matplotlib/
+│   ├── Day-XX-Basic-Plots/
+│   ├── Day-XX-Customization/
 │   └── ...
 │
 ├── 📁 Projects/
-│   ├── Project-01-House-Price-Prediction/
-│   ├── Project-02-Image-Classifier/
+│   ├── Project-01-Data-Analysis/
+│   ├── Project-02-Visualization-Dashboard/
 │   └── ...
-│
-├── 📁 Resources/
-│   ├── books.md
-│   ├── courses.md
-│   └── useful-links.md
 │
 └── 📄 README.md
 ```
@@ -127,18 +120,16 @@ Welcome to my 100 Days of Machine Learning challenge! This repository chronicles
 
 ## 🌟 Daily Log
 
-### Week 1: Building the Foundation
-
-#### Day 1 - December 21, 2024
+### Day 1 - December 21, 2024
 **Topic:** Python Refresher & Environment Setup  
 **What I Learned:** Set up my ML development environment, reviewed Python fundamentals  
-**Code:** [Link to Day 1](./Week-01-02-Foundations/Day-01/)  
+**Code:** [Link to Day 1](./Python-for-ML/Day-01/)  
 **Reflection:** Excited to start this journey! The foundation is crucial.
 
-#### Day 2 - December 22, 2024
+### Day 2 - December 22, 2024
 **Topic:** NumPy Fundamentals  
 **What I Learned:** Array operations, broadcasting, vectorization  
-**Code:** [Link to Day 2](./Week-01-02-Foundations/Day-02/)  
+**Code:** [Link to Day 2](./NumPy/Day-02/)  
 **Reflection:** NumPy's power is incredible for numerical computations!
 
 ---
@@ -151,7 +142,7 @@ Welcome to my 100 Days of Machine Learning challenge! This repository chronicles
 
 ### 🔹 Project 1: [Project Name]
 **Description:** Brief description of the project  
-**Tech Used:** Python, Scikit-learn, Pandas  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
 **Key Learnings:** What you learned from this project  
 **Demo:** [Link to demo/notebook]
 
@@ -164,13 +155,13 @@ Welcome to my 100 Days of Machine Learning challenge! This repository chronicles
 - [Course Name 2](link)
 
 ### 📕 Books
-- "Hands-On Machine Learning" by Aurélien Géron
-- "Pattern Recognition and Machine Learning" by Christopher Bishop
+- Python for Data Analysis
+- Data Science from Scratch
 
 ### 🌐 Websites & Blogs
 - [Kaggle](https://www.kaggle.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
-- [Machine Learning Mastery](https://machinelearningmastery.com/)
+- [Real Python](https://realpython.com/)
 
 ---
 
@@ -193,7 +184,7 @@ Progress: [████████░░░░░░░░░░░░] 40% (Da
 |--------|-------|
 | Days Completed | 40/100 |
 | Projects Built | 5 |
-| Algorithms Learned | 12 |
+| Topics Mastered | Python, NumPy, Pandas, Matplotlib |
 | Hours Invested | ~120 |
 
 ---
@@ -217,7 +208,9 @@ I'm documenting this journey publicly to stay accountable and to inspire others 
 
 ## 🙏 Acknowledgments
 
-Special thanks to:
+**Special thanks to Sir Nitish** for starting my journey toward AI and success. Your guidance and mentorship have been invaluable! 🙏
+
+Thanks also to:
 - The amazing ML community for inspiration and support
 - All the content creators who make learning accessible
 - Everyone following along on this journey!
