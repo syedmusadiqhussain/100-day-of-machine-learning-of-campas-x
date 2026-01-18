@@ -82,41 +82,7 @@ This challenge focuses on mastering the fundamental tools for Machine Learning:
 
 ---
 
-## 📂 Repository Structure
 
-```
-100-days-of-ml/
-│
-├── 📁 Python-for-ML/
-│   ├── Day-01-Python-Basics/
-│   ├── Day-02-Functions-and-Modules/
-│   ├── Day-03-OOP-Basics/
-│   └── ...
-│
-├── 📁 NumPy/
-│   ├── Day-XX-Arrays-and-Operations/
-│   ├── Day-XX-Broadcasting/
-│   └── ...
-│
-├── 📁 Pandas/
-│   ├── Day-XX-DataFrames-Basics/
-│   ├── Day-XX-Data-Cleaning/
-│   └── ...
-│
-├── 📁 Matplotlib/
-│   ├── Day-XX-Basic-Plots/
-│   ├── Day-XX-Customization/
-│   └── ...
-│
-├── 📁 Projects/
-│   ├── Project-01-Data-Analysis/
-│   ├── Project-02-Visualization-Dashboard/
-│   └── ...
-│
-└── 📄 README.md
-```
-
----
 
 ## 🌟 Daily Log
 
@@ -140,23 +106,59 @@ This challenge focuses on mastering the fundamental tools for Machine Learning:
 
 ## 🎯 Projects Completed
 
-### 🔹 Project 1: [Project Name]
-**Description:** Brief description of the project  
+### 🔹 Project 1: Car Details Analysis
+**Description:** Data analysis on car details dataset (v3 & v4)  
 **Tech Used:** Python, Pandas, NumPy, Matplotlib  
-**Key Learnings:** What you learned from this project  
-**Demo:** [Link to demo/notebook]
+**Dataset:** Car details v3.csv, Car details v4.csv
+
+### 🔹 Project 2: Sonar Data Analysis
+**Description:** Analysis of sonar data for object classification  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
+**Dataset:** Copy of sonar data.csv
+
+### 🔹 Project 3: Diabetes Prediction
+**Description:** Predicting diabetes using machine learning  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
+**Notebook:** Project_3_Diabetes_Prediction.ipynb  
+**Dataset:** diabetes.csv
+
+### 🔹 Project 4: House Price Prediction
+**Description:** Predicting house prices based on various features  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
+**Notebook:** Project_4_House_Price_Prediction.ipynb  
+**Dataset:** Housing.csv
+
+### 🔹 Project 5: Fake News Detection
+**Description:** Detecting fake news using text analysis  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
+**Notebook:** Project_5_Fake_News_Prediction.ipynb  
+**Dataset:** Fake.csv, True.csv
+
+### 🔹 Project 6: Loan Status Prediction
+**Description:** Predicting loan approval status  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
+**Notebook:** Project_6_Loan_Status_Prediction.ipynb
+
+### 🔹 Project 7: Wine Quality Prediction
+**Description:** Predicting wine quality based on chemical properties  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
+**Notebook:** Project_7_Wine_Quality_Prediction.ipynb
+
+### 🔹 Project 8: Rock vs Mine Prediction
+**Description:** Classifying sonar signals as rock or mine  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
+**Notebook:** Copy_of_Rock_vs_Mine_Prediction.ipynb
+
+### 🔹 Additional Datasets
+- car data.csv
+- car_data.csv
 
 ---
 
 ## 📚 Resources I'm Using
 
 ### 📖 Courses
-- [Course Name 1](link)
-- [Course Name 2](link)
-
-### 📕 Books
-- Python for Data Analysis
-- Data Science from Scratch
+- [Campus X - 100 Days of Machine Learning](https://youtu.be/ZftI2fEz0Fw?si=Fqs36EXRKGotiPlf)
 
 ### 🌐 Websites & Blogs
 - [Kaggle](https://www.kaggle.com/)
@@ -189,22 +191,7 @@ Progress: [████████░░░░░░░░░░░░] 40% (Da
 
 ---
 
-## 🤝 Connect With Me
 
-I'm documenting this journey publicly to stay accountable and to inspire others to start their own ML journey!
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZftI2fEz0Fw?si=Fqs36EXRKGotiPlf)
-
-**#100DaysOfMLCode** | **#MachineLearning** | **#DataScience**
-
-</div>
-
----
 
 ## 🙏 Acknowledgments
 
